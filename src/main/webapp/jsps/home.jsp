@@ -9,9 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technologies</h1>
+<h1 align="center">ACADA Learning</h1>
 <h2 align="center"> Welcome to ACADA Learning. 
-	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers. 
+	ACADA Learning is a an ideal online training  platform for DevOps and Cloud Engineers. 
 	We offer interview preparations and job assitance.
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
@@ -25,15 +25,15 @@
 		+1 587 574 2233,
 		info@acadalearning.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:info@acadalearning.com">Mail to ACADA Learning</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+<p align=center>ACADA Learning - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2019 by <a href="https://acadalearning.com/">ACADA Learning</a> </small></p>
 
 </body>
 </html>
