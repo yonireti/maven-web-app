@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>acadalearning.com- Home Page</title>
-<link href="images/log4.png" rel="icon">
+<link href="images/log.png" rel="icon">
 </head>
 </head>
 <body>
@@ -33,7 +33,7 @@
 <hr>
 <hr>
 <p align=center>ACADA Learning - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="https://acadalearning.com/">ACADA Learning</a> </small></p>
+<p align=center><small>Copyrights 2022 by <a href="https://acadalearning.com/">ACADA Learning</a> </small></p>
 
 </body>
 </html>
