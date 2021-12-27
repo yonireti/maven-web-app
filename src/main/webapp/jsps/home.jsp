@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Landmark Technologies</h1>
-<h2 align="center"> Welcome to Landmark Technology. 
+<h2 align="center"> Welcome to ACADA Learning. 
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers. 
 	We offer interview preparations and job assitance.
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
@@ -20,10 +20,10 @@
 		<img src="images/log4.png" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		ACADA Learning, 
+		Alberta, Calgary, Canada
+		+1 587 574 2233,
+		info@acadalearning.com
 		<br>
 		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
 	</span>
