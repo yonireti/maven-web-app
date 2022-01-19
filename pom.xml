@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Lanmark Technologies Snapshot Nexus Repository</name>
-	      <url>http://3.131.141.192:4000/repository/finetech-release/</url>
+	      <url>http://3.131.141.192:4000/repository/Fintech-Release/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
