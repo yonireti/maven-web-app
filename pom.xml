@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http:172.31.16.120:9000/</sonar.host.url>
+		<sonar.host.url>http:3.131.141.192:5000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -96,14 +96,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>Learning</name>
 	      <url>http://172.31.17.20:8081/repository/webapp_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.17.20:8081/repository/webapp_snapshot/</url>
+	      <name>Learning </name>
+	      <url>http://3.131.141.192:4000/repository/finetech-release/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
