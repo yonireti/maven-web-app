@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Acada Learning Releases Nexus Repository</name>
-	      <url>http://3.131.141.192:4000/repository/finetech-release/</url>
+	      <url>http://172.31.28.242:8000/repository/td-btsp-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Acada Learning Snapshot Nexus Repository</name>
-	      <url>http://3.131.141.192:4000/repository/Fintech-Release/</url>
+	      <url>http://172.31.28.242:8000/repository/td-btsp-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
