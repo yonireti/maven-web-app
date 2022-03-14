@@ -15,7 +15,7 @@ node
   
   stage("CheckOutCodeGit")
   {
-   git branch: 'development', credentialsId: '65fb834f-a83b-4fe7-8e11-686245c47a65', url: 'https://github.com/MithunTechnologiesDevOps/maven-web-application.git'
+   git branch: 'development', credentialsId: '65fb834f-a83b-4fe7-8e11-686245c47a65', url: 'https://github.com/team16flight/web-app.git'
  }
  
  stage("Build")
@@ -43,11 +43,11 @@ node
  
  stage('EmailNotification')
  {
- mail bcc: 'devopstrainingblr@gmail.com', body: '''Build is over
+ mail bcc: 'info@acadalearning.com', body: '''Build is over
 
  Thanks,
- Mithun Technologies,
- 9980923226.''', cc: 'devopstrainingblr@gmail.com', from: '', replyTo: '', subject: 'Build is over!!', to: 'devopstrainingblr@gmail.com'
+ Acada Learning,
+ 9980923226.''', cc: 'info@acadalearning.com', from: '', replyTo: '', subject: 'Build is over!!', to: 'info@acadalearning.com'
  }
  */
  
